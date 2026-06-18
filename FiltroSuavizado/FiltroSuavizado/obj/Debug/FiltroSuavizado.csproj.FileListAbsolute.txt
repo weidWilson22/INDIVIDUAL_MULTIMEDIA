@@ -1,0 +1,9 @@
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\bin\Debug\FiltroSuavizado.exe.config
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\bin\Debug\FiltroSuavizado.exe
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\bin\Debug\FiltroSuavizado.pdb
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.csprojResolveAssemblyReference.cache
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.Form1.resources
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.Properties.Resources.resources
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.csproj.GenerateResource.Cache
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.exe
+c:\users\wilson\documents\visual studio 2012\Projects\FiltroSuavizado\FiltroSuavizado\obj\Debug\FiltroSuavizado.pdb
