@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ_4_ReconocimientoZonas", "EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas.csproj", "{1FB3C341-68C7-456B-BDC3-BE91418A63DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FB3C341-68C7-456B-BDC3-BE91418A63DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB3C341-68C7-456B-BDC3-BE91418A63DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB3C341-68C7-456B-BDC3-BE91418A63DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB3C341-68C7-456B-BDC3-BE91418A63DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

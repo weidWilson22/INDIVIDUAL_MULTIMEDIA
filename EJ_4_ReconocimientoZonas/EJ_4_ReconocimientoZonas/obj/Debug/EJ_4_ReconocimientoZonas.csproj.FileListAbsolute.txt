@@ -1,0 +1,9 @@
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\bin\Debug\EJ_4_ReconocimientoZonas.exe.config
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\bin\Debug\EJ_4_ReconocimientoZonas.exe
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\bin\Debug\EJ_4_ReconocimientoZonas.pdb
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.csprojResolveAssemblyReference.cache
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.Form1.resources
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.Properties.Resources.resources
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.csproj.GenerateResource.Cache
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.exe
+c:\users\wilson\documents\visual studio 2012\Projects\EJ_4_ReconocimientoZonas\EJ_4_ReconocimientoZonas\obj\Debug\EJ_4_ReconocimientoZonas.pdb
